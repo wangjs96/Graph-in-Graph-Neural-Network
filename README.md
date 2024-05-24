@@ -20,7 +20,7 @@ Training
 = 
 >For general graph analysis tasks (clicking the link will directly take you to the target folder):
 
-- [MNIST](./GIG-Supplementary-Codes-Anonymous/data/superpixels/)
+- [MNIST](./GIG/data/superpixels)
 1) Execute the code blocks in 'prepare_superpixels_MNIST.ipynb' to download dataset and complete preprocessing
 2) Execute the 'MNIST.ipynb' to start training
 
