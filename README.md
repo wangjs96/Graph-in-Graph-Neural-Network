@@ -24,39 +24,39 @@ Training
 1) Execute the code blocks in 'prepare_superpixels_MNIST.ipynb' to download dataset and complete preprocessing
 2) Execute the 'MNIST.ipynb' to start training
 
-- [CIFAR10](./GIG-Supplementary-Codes-Anonymous/data/superpixels/)
+- [CIFAR10](./GIG/data/superpixels/)
 1) Execute the code blocks in 'prepare_superpixels_CIFAR.ipynb' to download dataset and complete preprocessing
 2) Execute the 'CIFAR10.ipynb' to start training
   
-- [CLUSTER](./GIG-Supplementary-Codes-Anonymous/data/SBMs/)
+- [CLUSTER](./GIG/data/SBMs/)
 1) Execute the code blocks in 'prepare_SBM_CLUSTER.ipynb' to download dataset and complete preprocessing
 2) Execute the 'CLUSTER.ipynb' to start training
 
-- [PATTERN](./GIG-Supplementary-Codes-Anonymous/data/SBMs/)
+- [PATTERN](./GIG/data/SBMs/)
 1) Execute the code blocks in 'prepare_SBM_PATTERN.ipynb' to download dataset and complete preprocessing
 2) Execute the 'PATTERN.ipynb' to start training
 
-- [ZINC](./GIG-Supplementary-Codes-Anonymous/data/molecules/)
+- [ZINC](./GIG/data/molecules/)
 1) Execute the code blocks in 'prepare_molecules.ipynb' to download dataset and complete preprocessing
 2) Execute the 'ZINC.ipynb' to start training
 
-- [ZINC-full](./GIG-Supplementary-Codes-Anonymous/data/molecules/)
+- [ZINC-full](./GIG/data/molecules/)
 1) Execute the code blocks in 'prepare_molecules_ZINC_full.ipynb' to download dataset and complete preprocessing
 2) Execute the 'ZINC-full.ipynb' to start training
 
-- [AQSOL](./GIG-Supplementary-Codes-Anonymous/data/molecules/)
+- [AQSOL](./GIG/data/molecules/)
 1) Execute the code blocks in 'prepare_molecules.ipynb' to download dataset and complete preprocessing
 2) Execute the 'AQSOL.ipynb' to start training
 
-- [TSP](./GIG-Supplementary-Codes-Anonymous/data/TSP/)
+- [TSP](./GIG/data/TSP/)
 1) Execute the code blocks in 'prepare_TSP.ipynb' to download dataset and complete preprocessing
 2) Execute the 'TSP.ipynb' to start training
 
-- [TU](./GIG-Supplementary-Codes-Anonymous/data/TUs/)
+- [TU](./GIG/data/TUs/)
 1) Dataset will be automatically downloaded and processed. Nonthing needs to be done right here.
 2) Execute the 'TU-GIG-Codes.ipynb' to start training
 
-- [OGBG-PPA](./GIG-Supplementary-Codes-Anonymous/data/OGBG-PPA/)
+- [OGBG-PPA](./GIG/data/OGBG-PPA/)
 1) Dataset will be automatically downloaded and processed. Nonthing needs to be done right here.
 2) Execute the 'OGBG-PPA.ipynb' to start training
 
