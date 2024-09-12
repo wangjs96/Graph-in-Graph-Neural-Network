@@ -1,5 +1,5 @@
 Codes in this repository consist of GIG-GatedGCN and GIG-CTR-GCN. The original GatedGCN can be found from [here](https://github.com/wangjs96/benchmarking-gnns/blob/master/layers/gated_gcn_layer.py) and orginal CTR-GCN can be found from [here](https://github.com/Uason-Chen/CTR-GCN).
-If you find this repository useful for your research, please cite:
+If you find our research is supportive, please cite:
 
 ```
 @misc{wang2024graphgraphneuralnetwork,
